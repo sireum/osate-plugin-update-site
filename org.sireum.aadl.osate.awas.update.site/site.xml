@@ -3,7 +3,7 @@
    <description name="Sireum Awas Update Site">
       Sireum Awas Update Site
    </description>
-   <feature url="features/org.sireum.aadl.osate.awas.feature_1.0.0.202007311108.jar" id="org.sireum.aadl.osate.awas.feature" version="1.0.0.202007311108">
+   <feature url="features/org.sireum.aadl.osate.awas.feature_1.0.0.202008061109.jar" id="org.sireum.aadl.osate.awas.feature" version="1.0.0.202008061109">
       <category name="org.sireum.aadl.osate.category"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.category" label="Sireum">
