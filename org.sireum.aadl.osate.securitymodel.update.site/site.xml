@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.sireum.aadl.osate.securitymodel.feature_1.0.0.202004271404.jar" id="org.sireum.aadl.osate.securitymodel.feature" version="1.0.0.202004271404">
+   <feature url="features/org.sireum.aadl.osate.securitymodel.feature_1.0.0.202011101957.jar" id="org.sireum.aadl.osate.securitymodel.feature" version="1.0.0.202011101957">
       <category name="org.sireum.aadl.osate.securitymodel"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.securitymodel" label="Security Modeling Annex">
