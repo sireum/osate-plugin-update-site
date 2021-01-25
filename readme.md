@@ -1,6 +1,6 @@
 # Github hosted Sireum OSATE Plugin Update Site
 
-Built against Sireum Kekinian Build 20210119.c6730a5* - To install Kekinian see [https://github.com/sireum/kekinian/tree/c6730a5#installing](https://github.com/sireum/kekinian/tree/c6730a5#installing)
+Built against Sireum Kekinian Build 20210125.c7e697c* - To install Kekinian see [https://github.com/sireum/kekinian/tree/c7e697c#installing](https://github.com/sireum/kekinian/tree/c7e697c#installing)
 
 ## Installation
 1. Install and launch [OSATE](http://osate.org/download-and-install.html)
