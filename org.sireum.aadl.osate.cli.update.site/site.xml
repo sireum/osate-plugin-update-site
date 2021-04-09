@@ -3,7 +3,7 @@
    <description name="Sireum OSATE CLI Update Site">
       Sireum OSATE CLI Update Site
    </description>
-   <feature url="features/org.sireum.aadl.osate.cli.feature_1.0.0.202103311905.jar" id="org.sireum.aadl.osate.cli.feature" version="1.0.0.202103311905">
+   <feature url="features/org.sireum.aadl.osate.cli.feature_1.0.0.202104091842.jar" id="org.sireum.aadl.osate.cli.feature" version="1.0.0.202104091842">
       <category name="org.sireum.aadl.osate.cli"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.cli" label="Sireum">
