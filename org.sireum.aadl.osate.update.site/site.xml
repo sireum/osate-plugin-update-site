@@ -3,7 +3,7 @@
    <description name="Sireum OSATE Update Site">
       Sireum OSATE Update Site
    </description>
-   <feature url="features/org.sireum.aadl.osate.feature_1.0.2105031401.202105031415.jar" id="org.sireum.aadl.osate.feature" version="1.0.2105031401.202105031415">
+   <feature url="features/org.sireum.aadl.osate.feature_1.0.2105041755.202105041816.jar" id="org.sireum.aadl.osate.feature" version="1.0.2105041755.202105041816">
       <category name="org.sireum.aadl.osate.category"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.category" label="Sireum">
